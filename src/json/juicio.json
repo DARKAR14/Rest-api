@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "nombre": "James Amaya",
+        "juez":"Julian Barney",
+        "caso": "acoso a menores",
+        "pruebasv":"15",
+        "pruebasf":"3",
+        "veredicto":"10 años de carcel"
+    },
+    {
+        "id": "2",
+        "nombre": "Ludwing Daniel",
+        "juez":"Vermen Rainer Ayala Vargas",
+        "caso": "acosador",
+        "pruebasv":"13",
+        "pruebasf":"9",
+        "veredicto":"70 años de carcel"
+    },
+    {
+        "id": "5",
+        "nombre": "Paula andrea Hurtado",
+        "juez":"Wilson Castillo",
+        "caso": "imprudencia de conduccion",
+        "pruebasv":"5",
+        "pruebasf":"14",
+        "veredicto":"Inocente puesta en libertad"
+    },
+    {
+        "id": "6",
+        "nombre": "Liz Ayaniskra",
+        "juez":"Dalila",
+        "caso": "Robo de camioneta",
+        "pruebasv":"10",
+        "pruebasf":"12",
+        "veredicto":"5 años de servicio comunitario"
+    }
+    
+]

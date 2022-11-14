@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "img":"https://cdn.coordiutil.com/imagen-combo_gamer_ryzen_5_5600g_8_ram_graficos_vega_solido_250_monitor_22_teclado_y_mouse_gamer-2281632-400-400-1-100.jpg",
+        "marca": "lenovo",
+        "precio": "Nvidia RTX 3090",
+        "procesador": "Intel Core i5",
+        "grafica":"Nvidia RTX 3090",
+        "ram": "8GB",
+        "pantalla":"32 pulgadas, 75hz",
+        "tipo":"mesa"
+    },
+    {
+        "id": "2",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_921000-MLM48852705072_012022-V.jpg",
+        "marca": "lenovo",
+        "precio": "Nvidia RTX 3090",
+        "procesador": "Intel Core i5",
+        "grafica":"Nvidia RTX 3090",
+        "ram": "8GB",
+        "pantalla":"32 pulgadas, 75hz",
+        "tipo":"mesa"
+    },
+    {
+        "id": "3",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_869043-MLA44090305725_112020-W.jpg",
+        "marca": "lenovo",
+        "precio": "Nvidia RTX 3090",
+        "procesador": "Intel Core i5",
+        "grafica":"Nvidia RTX 3090",
+        "ram": "8GB",
+        "pantalla":"32 pulgadas, 75hz",
+        "tipo":"mesa"
+    },
+    {
+        "id": "4",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_677148-MLA26262615122_102017-O.jpg",
+        "marca": "lenovo",
+        "precio": "Nvidia RTX 3090",
+        "procesador": "Intel Core i5",
+        "grafica":"Nvidia RTX 3090",
+        "ram": "8GB",
+        "pantalla":"32 pulgadas, 75hz",
+        "tipo":"portatil"
+    },
+    {
+        "id": "5",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_941593-MLA49436763428_032022-O.jpg",
+        "marca": "lenovo",
+        "precio": "Nvidia RTX 3090",
+        "procesador": "Intel Core i5",
+        "grafica":"Nvidia RTX 3090",
+        "ram": "8GB",
+        "pantalla":"32 pulgadas, 75hz",
+        "tipo":"portatil"
+    }
+]
